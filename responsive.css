@@ -1,0 +1,28 @@
+
+/* // `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 320px) { 
+   
+    .Hero_h1{font-size: 35px; font-weight: 400; margin: 30px; color: blue;}
+    .video_frame{height: 200px; width:250px;}
+    .phone_mockup{
+        height: 380px;
+    }
+    p{font-size: 12px}
+
+ };
+
+/* // `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 768px) {
+    
+ };
+
+/* // `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+    .video_frame{height: 200px; width:280px;}
+};
+
+/* // `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { };
+
+/* // `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {  };

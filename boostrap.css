@@ -1,0 +1,17 @@
+*{box-sizing: border-box; font-family: 'Montserrat', sans-serif;}
+.box{background-color: aqua; height: 40px; margin: 10px;}
+.primary_color{color: blue;}
+.social_icons {
+    list-style-type: none;
+    color: grey;
+    margin-left: 30px;
+}
+.center_align{text-align: right;}
+.nav_bar{background-color: white;}
+.center{margin: 0 auto; justify-content: center; text-align: center;}
+.Hero_h1{font-size: 65px; font-weight: 200; margin: 60px; color: blue;}
+.video_holder{width: 70%; height: 400px; margin: 10px auto; background-color: black; justify-content: center; object-fit: cover;}
+.video_frame{height: 400px; width:800px;}
+.phone_mockup{
+    height: 580px;
+}
